@@ -1,0 +1,9 @@
+
+NEXT_PUBLIC_API_URL=https://dev-api.finanzo.io
+NEXT_PUBLIC_SOCKET_URL=wss://dev-api.finanzo.io
+NEXT_PUBLIC_AZURE_AD_REDIRECT_URI=https://dev.finanzo.io
+NEXT_PUBLIC_AZURE_AD_SCOPES=User.Read
+NEXT_PUBLIC_B2C_AUTHORITY=https://stgfinanzob2c.b2clogin.com/stgfinanzob2c.onmicrosoft.com/B2C_1_finanzo-signin
+NEXT_PUBLIC_B2C_KNOWN_AUTHORITY=stgfinanzob2c.b2clogin.com
+NEXT_PUBLIC_B2C_SIGNUP_AUTHORITY=https://stgfinanzob2c.b2clogin.com/stgfinanzob2c.onmicrosoft.com/B2C_1_finanzo-signup
+NEXT_PUBLIC_REDIRECT_URI=https://dev.finanzo.io
